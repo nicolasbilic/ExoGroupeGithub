@@ -2,7 +2,7 @@
 
 Chacun crée un repository en local ok
 
-[15:21] Yvan Douenel
+
 
 sur le repository local, vous créer un premier commit 
 
